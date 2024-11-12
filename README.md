@@ -52,9 +52,6 @@ This project is a **Streamlit** web application that generates a color palette b
 - `create_color_palette(dominant_colors)`: Generates an image of the color palette based on the dominant colors extracted.
 - `main()`: The main function that loads the Streamlit interface, processes the image, performs clustering, and displays the palette.
 
-## Example
-
-![Example](example_palette.png)
 
 ## Future Improvements
 
